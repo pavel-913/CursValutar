@@ -6,5 +6,7 @@ This C# application is a prototype that needs to simulate a bank exchange value 
 
 Quick Note: The app doesn't use a SQL database for saving the values but a txt, but there is a databse for saving the previous changes, helping in creating that appealing chart.
 
+<img src="https://github.com/pavel-913/CursValutar/blob/main/Screenshot2.png" alt="">
+
 Feel free to explore, modify, and extend the app for your specific use case.
 
