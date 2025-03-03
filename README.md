@@ -1,6 +1,13 @@
-Value Exchange App (C#)
+💱 Value Exchange App (C#)
+This C# application is a prototype for simulating a bank exchange value system. It provides users with an intuitive interface to exchange currencies effortlessly. The app dynamically calculates exchange rates, ensuring smooth and accurate transactions. Users can input an amount, select their desired currency, and receive real-time conversions based on the latest rates.
 
-This C# application is a prototype that needs to simulate a bank exchange value system. It allows users to exchange values through a simple interface, ensuring that transactions are processed seamlessly. The app allows the user to select the wanted.
+✨ Features
+✅ User-Friendly Interface – Simple and clean UI for seamless currency conversion.
+✅ Real-Time Calculation – Updates the exchanged value based on entered data.
+✅ Multi-Currency Support – Handles various currencies, including USD, EUR, RON, and GBP.
+✅ Exchange Rate History – Displays current buy/sell rates for reference.
+
+This prototype serves as a foundation for further improvements, such as API integration for live exchange rates and transaction history logging.
 
 <img src="https://github.com/pavel-913/CursValutar/blob/main/Screenshot.png" alt="">
 
